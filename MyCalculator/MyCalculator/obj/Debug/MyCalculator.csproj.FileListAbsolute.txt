@@ -1,0 +1,8 @@
+D:\GitHub\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojAssemblyReference.cache
+D:\GitHub\Calculator\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+D:\GitHub\Calculator\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+D:\GitHub\Calculator\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+D:\GitHub\Calculator\MyCalculator\MyCalculator\bin\Debug\CliDll.pdb
+D:\GitHub\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CopyComplete
+D:\GitHub\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+D:\GitHub\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
